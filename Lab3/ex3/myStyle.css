@@ -1,0 +1,36 @@
+body
+{
+    background-image: url('background.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+p
+{
+    color: white;
+    font-family: 'Times New Roman';
+    font-size: 22px;
+}
+
+h1
+{
+    color: white;
+    font-size: 40px;
+}
+a
+{
+    color: pink;
+    font-size: 30px;
+}
+a.video
+{
+    color: orange;
+    font-size: 22px;
+}
+
+a:hover
+{
+    background-color: green;
+    color: yellow;
+}
